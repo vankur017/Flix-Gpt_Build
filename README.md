@@ -1,5 +1,24 @@
 # Flix GPT
 
+###Core Features###
+Login/Signup Page:
+
+Sign In/Sign Up Form
+Redirect to Browse Page after authentication
+Browse Page (After Authentication):
+
+Header
+Main Movie
+Trailer in Background
+Movie Title and Description
+Movie Suggestions
+Movie Lists (Vertically Scrollable)
+
+
+Search Bar
+Movie Suggestions From chatgpt
+
+
 Before using the deployed URL from the repository, follow the steps below:
 
 #### ### IMPORTANT NOTICE ###
@@ -15,21 +34,3 @@ Before using the deployed URL from the repository, follow the steps below:
 npm run start
 
 
-### To Start the Server Locally:
-Core Features:
-Login/Signup Page:
-
-Sign In/Sign Up Form
-Redirect to Browse Page after authentication
-Browse Page (After Authentication):
-
-Header
-Main Movie
-Trailer in Background
-Movie Title and Description
-Movie Suggestions
-Movie Lists (Vertically Scrollable)
-Flix GPT:
-
-Search Bar
-Movie Suggestions
